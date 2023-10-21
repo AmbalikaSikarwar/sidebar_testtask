@@ -11,7 +11,7 @@ function Profile() {
         <br></br>
 
         <h3>
-          <b>My Patient Profiles page</b>
+          <b>My Patient Profiles page.....</b>
         </h3>
       </center>
       <br></br>
