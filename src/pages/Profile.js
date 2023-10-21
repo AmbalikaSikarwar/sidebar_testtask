@@ -26,7 +26,7 @@ function Profile() {
             src="https://20drl41vla0f18nyev1xspfn-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/image001.jpg"
           />
           <Card.Body>
-            <Card.Title>KATE SMITH David</Card.Title>
+            <Card.Title>KATE SMITH DAVID</Card.Title>
             <Card.Text>
               <b>Active</b>
               <Progressbar bgcolor="#99ccff" progress="45" height={20} />
