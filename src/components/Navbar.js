@@ -8,7 +8,6 @@ import './Navbar.css';
 function Navbar() {
   const [sidebar, setSidebar] = useState(true);
 
-
   return (
     <>
         <div className='navbar'>
@@ -30,7 +29,7 @@ function Navbar() {
 
             <br></br><br></br><br></br><br></br>
             <h3 className="help">Need Our help ?</h3><br></br>
-           &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <button type="button" class="btn btn-success">Contact Us</button>
+           &nbsp;<button type="button" class="btn btn-success">Contact Us</button>
             
             </ul>
         </nav>
