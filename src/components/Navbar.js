@@ -17,7 +17,7 @@ function Navbar() {
         <nav className={sidebar ? 'nav-menu active' : 'nav-menu'}>
    <ul>   <li className='navbar-toggle'>
             </li>
-            {SidebarData.map((item, index) => {
+            {SidebarData?.map((item, index) => {
               return (
                 <li key={index} className={item.cName}>
                   <Link to={item.path}>
