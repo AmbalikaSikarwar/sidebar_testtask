@@ -19,7 +19,9 @@ function Profile() {
 
       <center>
       <div class="flex-container">
-       <div> <Card style={{ width: "18rem" }}>
+
+       {/* <div> 
+        <Card style={{ width: "18rem" }}>
           <p>2d ago..</p>
           <Card.Img
             variant="top"
@@ -32,8 +34,8 @@ function Profile() {
               <Progressbar bgcolor="#99ccff" progress="45" height={20} />
             </Card.Text>
           </Card.Body>
-        </Card> </div>
-
+        </Card> </div> */}
+{/* 
        <div> <Card style={{ width: "18rem" }}>
           <p>15d ago..</p>
           <Card.Img
@@ -47,7 +49,7 @@ function Profile() {
               <Progressbar bgcolor="orange" progress="70" height={20} />
             </Card.Text>
           </Card.Body>
-        </Card></div>
+        </Card></div> */}
 
        <div> <Card style={{ width: "18rem" }}>
           <p>30d ago..</p>
