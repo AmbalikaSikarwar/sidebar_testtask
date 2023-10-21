@@ -11,7 +11,7 @@ function Profile() {
         <br></br>
 
         <h3>
-          <b>My Patient Profiles page</b>
+          <b>My Patient Profiles page.....</b>
         </h3>
       </center>
       <br></br>
@@ -26,7 +26,9 @@ function Profile() {
             src="https://20drl41vla0f18nyev1xspfn-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/image001.jpg"
           />
           <Card.Body>
+
             <Card.Title>KATE SMITH DAVID </Card.Title>
+            <Card.Title>KATE SMITH DAVID</Card.Title>
             <Card.Text>
               <b>Active</b>
               <Progressbar bgcolor="#99ccff" progress="45" height={20} />
